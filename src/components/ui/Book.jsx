@@ -19,7 +19,7 @@ const Book = ({ book }) => {
       </div>
       <Rating rating={book.rating} />
       <Price 
-      orignalPrice={book.orignalPrice}
+      originalPrice={book.originalPrice}
       salePrice={book.salePrice}
       />
     </div>
